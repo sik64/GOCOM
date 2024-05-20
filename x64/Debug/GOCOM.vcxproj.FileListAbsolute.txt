@@ -1,1 +1,2 @@
 C:\Users\SIKLAB\source\repos\GOCOM\x64\Debug\GOCOM.exe
+C:\Users\SIKLAB\Desktop\gocom\GOCOM\x64\Debug\GOCOM.exe
